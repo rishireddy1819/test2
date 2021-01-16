@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+body{
+    
+    background-image: url(images/background\ 1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+}
+
+
+.book{
+    text-align: center;
+    font-size: 40px;
+    margin: 20px;
+}
+
+
+
+
+
+.hero{
+    background: #2d85b0;
+    width: 500px;
+    margin: 0px 0px 0px 430px;
+    color: white;
+    font-size: 18px;
+    padding: 20px;
+    border-radius: 10px;
+    margin-left: 350px;
+
+    
+    }
+
+    
+
+
+
+
+    #name{
+
+        width: 300px;
+        border: none;
+        border-radius: 3px;
+        outline: 0;
+        padding: 7px;
+        
+}
+
+#fname{
+    width: 300px 1000px;
+    border: none;
+    border-radius: 3px;
+    outline: 0;
+    padding: 7px 30px 50px 80px;
+
+}
+
+
+#submit{
+    width: 100px;
+    padding: 7px;
+    border: 1px solid #fff;
+    border-radius: 5px;
+    outline: 0;
+    position: relative;
+    left: 600px;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: bolder;
+    cursor: pointer;
+    top: 70px;
+
+}
